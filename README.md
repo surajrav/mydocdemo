@@ -7,7 +7,7 @@ This document outlines the Device Manager (DM) MQTT API that the instruments inf
   1. [API Overview](#api-overview)
       1. [Specific Overview](#specific-overview)
           1. [MQTT](https://github.com/surajrav/mydocdemo/edit/master/README.md)
-  1. 
+  1. New Topic
           
 <a name="api-overview"></a>
 ## API Overview
